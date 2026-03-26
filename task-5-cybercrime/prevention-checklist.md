@@ -1,4 +1,4 @@
-Stay Safe Online
+# Stay Safe Online
 
 1. Use a strong, unique password for each account and enable Two-Factor Authentication (2FA) on your college portal and social media.
 2. Avoid using public Wi-Fi in cafes or libraries for sensitive tasks; use a personal hotspot or a VPN instead.
