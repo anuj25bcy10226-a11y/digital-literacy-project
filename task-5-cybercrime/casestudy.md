@@ -1,4 +1,4 @@
-Case Study: The QR Code Refund Trap
+# Case Study: The QR Code Refund Trap
 
 The Incident : In this typical 2026 UPI fraud scenario, a small business owner Priya was targeted while selling handmade crafts on a popular social media marketplace. A buyer contacted her, expressed urgent interest, and claimed they had already sent a payment of ₹5,000 but it was stuck in the UPI gateway.
 
